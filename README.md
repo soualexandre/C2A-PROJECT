@@ -1,7 +1,6 @@
 ## C2A-PROJECT
 
-rodar:
+Rodar frontend do projeto:
 
 npm install
-
 npm serve
